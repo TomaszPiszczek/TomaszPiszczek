@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomaszpiszczek&label=Profile%20views&color=0e75b6&style=flat" alt="tomaszpiszczek" /> </p>
 
-- 🔭 I’m currently working on **2d Unity Game**
-
-- 🌱 I’m currently learning **Unity, Kafka , Android**
 
 - 📫 How to reach me **piszczek.tomek09@gmail.com**
 
